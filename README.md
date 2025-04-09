@@ -5,7 +5,7 @@ Utilizing machine learning and computer vision technologies for tomato disease d
   Academic Project
   2022 March 
 
-#Dataset 
+# Dataset 
 Plant Village Dataset
 
 # Methodology
